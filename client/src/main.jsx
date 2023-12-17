@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      authorizationParams={{
       redirect_uri: "https://minor-real-estate-frontend.vercel.app"
      }}
-     audience="https://minor-real-estate.vercel.app"
+     audience="http://localhost:8000"
      scope="openid profile email"
     >
       <MantineProvider>
