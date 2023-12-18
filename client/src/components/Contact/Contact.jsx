@@ -26,7 +26,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+91 8305819167</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Call now</div>
@@ -39,10 +39,11 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Chat</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">karna342002@gmail.com</span>
+                    
                   </div>
                 </div>
-                <div className="flexCenter button">Chat now</div>
+                <div className="flexCenter button"><a href="mailto:karna342002@gmail.com">Chat now</a></div>
               </div>
             </div>
 
@@ -55,7 +56,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Video Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+91 8305819167</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Video Call now</div>
@@ -68,10 +69,11 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Message</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">Krishnabairagi2001@gmail.com</span>
                   </div>
                 </div>
-                <div className="flexCenter button">Message now</div>
+                <div className="flexCenter button"><a href="mailto:Krishnabairagi2001@gmail.com">Message now</a></div>
+                
               </div>
             </div>
           </div>
